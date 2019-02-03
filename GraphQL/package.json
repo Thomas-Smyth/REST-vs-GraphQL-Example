@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-example",
+  "name": "graphql-api-example",
   "version": "1.0.0",
-  "description": "An example REST API",
+  "description": "An example GraphQL API",
   "author": "Thomas Smyth",
   "license": "MIT",
   "repository": {
@@ -21,10 +21,11 @@
   "dependencies": {
     "@babel/runtime": "^7.3.1",
     "@koa/cors": "^2.2.3",
+    "apollo-server-koa": "^2.3.3",
+    "graphql": "^14.1.1",
     "koa": "^2.7.0",
     "koa-helmet": "^4.0.0",
-    "koa-logger": "^3.2.0",
-    "koa-router": "^7.4.0"
+    "koa-logger": "^3.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
