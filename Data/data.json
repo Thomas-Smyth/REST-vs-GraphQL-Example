@@ -1,0 +1,388 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Alex",
+      "email": "Alex@email.com"
+    },
+    {
+      "id": 2,
+      "username": "Ben",
+      "email": "Ben@email.com"
+    },
+    {
+      "id": 3,
+      "username": "Charlie",
+      "email": "Charlie@email.com"
+    },
+    {
+      "id": 4,
+      "username": "Don",
+      "email": "Don@email.com"
+    },
+    {
+      "id": 5,
+      "username": "Ellie",
+      "email": "Ellie@email.com"
+    },
+    {
+      "id": 6,
+      "username": "Frank",
+      "email": "Frank@email.com"
+    },
+    {
+      "id": 7,
+      "username": "Georgie",
+      "email": "Georgie@email.com"
+    },
+    {
+      "id": 8,
+      "username": "Harry",
+      "email": "Harry@email.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userID": 1,
+      "text": "I had such a great day!"
+    },
+    {
+      "id": 2,
+      "userID": 4,
+      "text": "Skiing is fun."
+    },
+    {
+      "id": 3,
+      "userID": 3,
+      "text": "Jocko Willink is a legend."
+    },
+    {
+      "id": 4,
+      "userID": 5,
+      "text": "My tea was burnt."
+    },
+    {
+      "id": 5,
+      "userID": 6,
+      "text": "#goldfish"
+    },
+    {
+      "id": 6,
+      "userID": 8,
+      "text": "Netflix is so good!"
+    },
+    {
+      "id": 7,
+      "userID": 3,
+      "text": "#bringbackthemusketeers"
+    },
+    {
+      "id": 8,
+      "userID": 2,
+      "text": "Coding is fun!"
+    },
+    {
+      "id": 9,
+      "userID": 5,
+      "text": "Work work work"
+    },
+    {
+      "id": 10,
+      "userID": 7,
+      "text": "Anyone up for going on a run?"
+    },
+    {
+      "id": 11,
+      "userID": 3,
+      "text": "David Goggins is insane"
+    },
+    {
+      "id": 12,
+      "userID": 8,
+      "text": "Checkout my latest Instagram picture!"
+    },
+    {
+      "id": 13,
+      "userID": 5,
+      "text": "#followforfollow"
+    },
+    {
+      "id": 14,
+      "userID": 3,
+      "text": "I should have written a script to seed this file :("
+    },
+    {
+      "id": 15,
+      "userID": 1,
+      "text": "I should probably stop coding and cook my lunch, like seriously."
+    },
+    {
+      "id": 16,
+      "userID": 2,
+      "text": "Running out of ideas for post text."
+    },
+    {
+      "id": 17,
+      "userID": 5,
+      "text": "Ok"
+    },
+    {
+      "id": 18,
+      "userID": 7,
+      "text": "HAHAHAHAHAHA such funniness"
+    },
+    {
+      "id": 19,
+      "userID": 3,
+      "text": "Ant Middleton <3"
+    },
+    {
+      "id": 20,
+      "userID": 7,
+      "text": "Well then."
+    }
+  ],
+  "reactions": [
+    {
+      "id": 1,
+      "userID": 1,
+      "postID": 2,
+      "type": "like"
+    },
+    {
+      "id": 2,
+      "userID": 8,
+      "postID": 4,
+      "type": "hate"
+    },
+    {
+      "id": 3,
+      "userID": 6,
+      "postID": 3,
+      "type": "like"
+    },
+    {
+      "id": 4,
+      "userID": 2,
+      "postID": 12,
+      "type": "like"
+    },
+    {
+      "id": 5,
+      "userID": 3,
+      "postID": 13,
+      "type": "hate"
+    },
+    {
+      "id": 6,
+      "userID": 7,
+      "postID": 18,
+      "type": "like"
+    },
+    {
+      "id": 7,
+      "userID": 3,
+      "postID": 20,
+      "type": "like"
+    },
+    {
+      "id": 8,
+      "userID": 2,
+      "postID": 19,
+      "type": "like"
+    },
+    {
+      "id": 9,
+      "userID": 1,
+      "postID": 4,
+      "type": "hate"
+    },
+    {
+      "id": 10,
+      "userID": 2,
+      "postID": 2,
+      "type": "like"
+    },
+    {
+      "id": 11,
+      "userID": 5,
+      "postID": 2,
+      "type": "like"
+    },
+    {
+      "id": 12,
+      "userID": 6,
+      "postID": 1,
+      "type": "like"
+    },
+    {
+      "id": 13,
+      "userID": 1,
+      "postID": 3,
+      "type": "hate"
+    },
+    {
+      "id": 14,
+      "userID": 7,
+      "postID": 8,
+      "type": "like"
+    },
+    {
+      "id": 15,
+      "userID": 8,
+      "postID": 9,
+      "type": "like"
+    },
+    {
+      "id": 16,
+      "userID": 6,
+      "postID": 11,
+      "type": "like"
+    },
+    {
+      "id": 17,
+      "userID": 3,
+      "postID": 10,
+      "type": "hate"
+    },
+    {
+      "id": 18,
+      "userID": 2,
+      "postID": 15,
+      "type": "like"
+    },
+    {
+      "id": 19,
+      "userID": 4,
+      "postID": 16,
+      "type": "like"
+    },
+    {
+      "id": 20,
+      "userID": 5,
+      "postID": 17,
+      "type": "hate"
+    },
+    {
+      "id": 21,
+      "userID": 6,
+      "postID": 6,
+      "type": "like"
+    },
+    {
+      "id": 22,
+      "userID": 8,
+      "postID": 7,
+      "type": "like"
+    },
+    {
+      "id": 23,
+      "userID": 7,
+      "postID": 8,
+      "type": "like"
+    },
+    {
+      "id": 24,
+      "userID": 4,
+      "postID": 3,
+      "type": "hate"
+    },
+    {
+      "id": 25,
+      "userID": 3,
+      "postID": 13,
+      "type": "like"
+    },
+    {
+      "id": 26,
+      "userID": 3,
+      "postID": 20,
+      "type": "like"
+    },
+    {
+      "id": 27,
+      "userID": 2,
+      "postID": 19,
+      "type": "like"
+    },
+    {
+      "id": 28,
+      "userID": 1,
+      "postID": 18,
+      "type": "hate"
+    },
+    {
+      "id": 29,
+      "userID": 5,
+      "postID": 15,
+      "type": "like"
+    },
+    {
+      "id": 30,
+      "userID": 5,
+      "postID": 15,
+      "type": "like"
+    },
+    {
+      "id": 31,
+      "userID": 6,
+      "postID": 16,
+      "type": "hate"
+    },
+    {
+      "id": 32,
+      "userID": 7,
+      "postID": 6,
+      "type": "hate"
+    },
+    {
+      "id": 33,
+      "userID": 8,
+      "postID": 7,
+      "type": "hate"
+    },
+    {
+      "id": 34,
+      "userID": 6,
+      "postID": 8,
+      "type": "like"
+    },
+    {
+      "id": 35,
+      "userID": 4,
+      "postID": 10,
+      "type": "like"
+    },
+    {
+      "id": 36,
+      "userID": 3,
+      "postID": 10,
+      "type": "like"
+    },
+    {
+      "id": 37,
+      "userID": 6,
+      "postID": 11,
+      "type": "hate"
+    },
+    {
+      "id": 38,
+      "userID": 7,
+      "postID": 13,
+      "type": "like"
+    },
+    {
+      "id": 39,
+      "userID": 7,
+      "postID": 15,
+      "type": "hate"
+    },
+    {
+      "id": 40,
+      "userID": 8,
+      "postID": 16,
+      "type": "hate"
+    }
+  ]
+}
