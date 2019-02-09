@@ -9,7 +9,7 @@
 [![GitHub license](https://img.shields.io/github/license/Thomas-Smyth/SpaceX-API-Wrapper.svg?style=flat-square)](https://github.com/Thomas-Smyth/REST-vs-GraphQL-Example/blob/master/LICENSE.md)
 
 ### REST and GraphQL API Interfaces for a Basic Social Media Application
-<br><br>
+<br>
 </div>
 
 ## Installation
