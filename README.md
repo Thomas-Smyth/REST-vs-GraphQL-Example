@@ -29,6 +29,27 @@ cd ../GraphQL
 yarn install
 ```
 
+## Starting API Servers
+To start via `npm`:
+```
+cd REST
+npm run build
+npm run start
+cd ../GraphQL
+npm run build
+npm run start
+```
+
+To start via `yarn`:
+```
+cd REST
+yarn run build
+yarn run start
+cd ../GraphQL
+yarn run build
+yarn run start
+```
+
 ## REST Endpoints
 * `/users` - Get all users.
 * `/users/:id` - Get user by ID.
