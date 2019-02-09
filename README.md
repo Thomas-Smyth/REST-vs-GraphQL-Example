@@ -29,6 +29,23 @@ cd ../GraphQL
 yarn install
 ```
 
+## Starting the API Servers
+Run the following in the REST / GraphQL folders depending on which you wish to start. 
+
+You can run both servers at the same time. Port `3000` for REST, port `3001` for GraphQL.
+
+Start with `npm`:
+```
+npm run build
+npm run start
+```
+
+Start with `yarn`:
+```
+yarn run build
+yarn run start
+```
+
 ## REST Endpoints
 * `/users` - Get all users.
 * `/users/:id` - Get user by ID.
