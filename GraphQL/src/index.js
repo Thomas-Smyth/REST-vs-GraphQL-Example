@@ -17,4 +17,4 @@ const server = new ApolloServer({ typeDefs, resolvers });
 
 server.applyMiddleware({ app });
 
-app.listen(3001, () => console.log('Server started on port 3000'));
+app.listen(3001, () => console.log('Server started on port 3001'));
